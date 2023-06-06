@@ -113,7 +113,7 @@ function Couple() {
                         </div>
                         <div className="info groom-info">
                             <h3>
-                                Suhail Ahmed <sub>B.Tech.,</sub>
+                                B. Mohammed Saddam Hussain <sub>B.Tech.,</sub>
                             </h3>
                             <p className="mt-2 mt-lg-3">
                                 Professsion: <strong>Software Engineer,</strong>
