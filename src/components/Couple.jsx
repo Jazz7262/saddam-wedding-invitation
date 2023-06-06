@@ -27,11 +27,11 @@ function Couple() {
                                     data-target="#carouselIndicators"
                                     data-slide-to="1"
                                 ></li>
-                                <li
+                                {/* <li
                                     data-target="#carouselIndicators"
                                     data-slide-to="2"
                                 ></li>
-                                {/* <li
+                                <li
                                     data-target="#carouselIndicators"
                                     data-slide-to="3"
                                 ></li>
@@ -71,15 +71,7 @@ function Couple() {
                                         />
                                     </div>
                                 </div>
-                                <div className="carousel-item">
-                                    <div className="img-wrapper">
-                                        <img
-                                            className="couple-img"
-                                            src="../assets/images/groom3.png"
-                                            alt="couple_img"
-                                        />
-                                    </div>
-                                </div>
+                                
                             </div>
                             <a
                                 className="carousel-control-prev"
@@ -240,10 +232,10 @@ function Couple() {
                                 Eldest D/O Janab{" "}
                                 <strong>K. Haji Malang Baba,</strong>
                             </p>
-                            <p className="mt-1 mt-lg-2">
-                                H.No.: 24/90, Near Saheb Bowdi,
+                            {/* <p className="mt-1 mt-lg-2">
+                                H.No.: 24/90, Near Saheb Bowdi,  
                             </p>
-                            <p className="mt-1 mt-lg-2">KowdiyalPet, Adoni.</p>
+                            <p className="mt-1 mt-lg-2">KowdiyalPet, Adoni.</p> */}
                             {/* <p className="mt-1 mt-lg-2">Bellari.</p> */}
                             {/* <p className="mt-1 mt-lg-2">
                                 D/O <strong>Shaikh Nazeer Ahmed.</strong>
