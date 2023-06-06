@@ -71,7 +71,6 @@ function Couple() {
                                         />
                                     </div>
                                 </div>
-                                
                             </div>
                             <a
                                 className="carousel-control-prev"
@@ -153,10 +152,10 @@ function Couple() {
                                     data-target="#bride-carousel-indicators"
                                     data-slide-to="1"
                                 ></li>
-                                <li
+                                {/* <li
                                     data-target="#bride-carousel-indicators"
                                     data-slide-to="2"
-                                ></li>
+                                ></li> */}
                             </ol>
                             <div className="carousel-inner">
                                 <div className="carousel-item active">
@@ -177,7 +176,7 @@ function Couple() {
                                         />
                                     </div>
                                 </div>
-                                <div className="carousel-item">
+                                {/* <div className="carousel-item">
                                     <div className="img-wrapper">
                                         <img
                                             className="couple-img"
@@ -185,7 +184,7 @@ function Couple() {
                                             alt="couple_img"
                                         />
                                     </div>
-                                </div>
+                                </div> */}
                             </div>
                             <a
                                 className="carousel-control-prev"
